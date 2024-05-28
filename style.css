@@ -1,0 +1,32 @@
+h1{
+   text-aling: center;
+   color:blue;
+   font-family: Arial, Helvetica, sans-serif; 
+   font-size: 35;
+   margin:20px;
+
+}
+#distancia_percorrida{
+    text-align: center;
+    font-weight: bold;
+    font-size:25px;
+    font-family:sans-serif;
+    color:red;
+
+}
+
+#Segundos_informados{
+    text-align: center;
+    font-weight: bold;
+    font-size:25px;
+    font-family:sans-serif;
+    color:red;
+}
+
+.texto{
+    text-align: center;
+    font-weight: bold;
+    font-size:25px;
+    font-family:sans-serif;
+    
+}
