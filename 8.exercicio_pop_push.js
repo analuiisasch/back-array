@@ -13,5 +13,5 @@ jantarDehoje.push('🍏')
 console.log(jantarDehoje)
 
 
-*po tira a ultima informação e o push inseri nova informção.
+*pop tira a ultima informação e o push inseri nova informção.
   
