@@ -14,3 +14,4 @@ console.log(alunos)
 
 
 *neste codigo o joao é o 0, neste caso tirou a ana que é o 1 .    SEMPRE COMEÇA NO 0 
+* no slice ele deixa a lista igual , so reira oque pedidmos 
