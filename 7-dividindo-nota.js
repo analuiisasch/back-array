@@ -33,3 +33,4 @@ const sala2 = alunos.slice(10); // não é necessário colocar o até o final, b
 
 console.log(sala1);
 console.log(sala2);
+*este codigo vai inserir do indice 0 até o 9, o slice tirou o 10 aluno.
