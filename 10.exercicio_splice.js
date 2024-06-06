@@ -4,5 +4,5 @@ animaisDoAquario = ['🐋', '🐙', '🐬', '🦈']
 animaisDoAquario.splice(1,0, '🐠' )
 console.log(animaisDoAquario)
 
-
+*neste codigo so adicionou o peixe amarelo, não reirou nenhum dos outros.
  
