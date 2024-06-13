@@ -19,3 +19,7 @@ anos e não possui faculdade `)
  //Como uma tabela do Excel, onde cada campo representa um elemento, e precisamos de uma linha
  //E uma coluna para acessar um campo. Então, as linhas são o primeiro e a coluna o
  //segundo colchete.
+
+resposta 
+ A funcionária Ana, possui 30
+anos e não possui faculdade 
