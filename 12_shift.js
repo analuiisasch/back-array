@@ -4,3 +4,5 @@ retirar_primeiro.shift()
 console.log(retirar_primeiro)
 retirar_primeiro[0] = 100 // inclusão do valor 100 no índice 0(indexação)
 console.log(retirar_primeiro)
+
+shift adiciona no primeiro lugar
