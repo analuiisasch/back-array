@@ -8,4 +8,5 @@ listaDeAlunosEmedias[0][1]}. A nota dessa aluna é ${listaDeAlunosEmedias[1][1]}
 
           0         1
 * const alunos e medias 
-   
+  resposta; O aluno da posição 1 da lista de alunos é:Juliana. A nota dessa aluna é 8 
+*
